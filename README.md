@@ -39,10 +39,12 @@ The project consists of an Express.js server providing data about the current da
    Open your browser and visit http://localhost:3001 to see the app in action.
    
 ### Go to the backend directory
-   cd ../backend/
-   - npm install
-  
-3.**Running the Application**
+
+```bash
+   cd backend/
+   npm install
+  ```
+3. **Running the Application**
 
 ### Inside the backend directory
    Start the backend Express server: 
