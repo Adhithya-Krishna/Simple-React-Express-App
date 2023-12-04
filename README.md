@@ -28,7 +28,7 @@ The project consists of an Express.js server providing data about the current da
 
 - Should open Frontend and backend files in diffrent terminals.
 
-# Go to the frontend directory
+### Go to the frontend directory
    ```bash
    cd frontend/
    npm install
@@ -38,20 +38,20 @@ The project consists of an Express.js server providing data about the current da
 
    Open your browser and visit http://localhost:3001 to see the app in action.
    
-# Go to the backend directory
+### Go to the backend directory
    cd ../backend/
    - npm install
   
 3.**Running the Application**
 
-# Inside the backend directory
+### Inside the backend directory
    Start the backend Express server: 
    - node index.js
 
    Install nodemon.js for better use
    The React app will start running on http://localhost:3000.
 
-# Inside the backend directory
+### Inside the backend directory
    Start the React frontend:
    - npm run dev
    The React app will start running on http://localhost:5173
