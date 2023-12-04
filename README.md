@@ -22,4 +22,25 @@ The project consists of an Express.js server providing data about the current da
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/express-react-app.git  ```
+   git clone https://github.com/yourusername/express-react-app.git  
+
+2. **Install Dependencies:**
+
+Should open Frontend and backend files in diffrent terminals.
+
+# Go to the frontend directory
+   cd frontend/
+   npm install
+   npm run dev      
+ 
+   The React app will start running on http://localhost:5173.
+
+   Open your browser and visit http://localhost:3001 to see the app in action.
+   
+# Go to the backend directory
+   cd ../backend/
+   npm install
+   node index.js
+      
+      - Install nodemon.js for better use case
+   The React app will start running on http://localhost:3000.
