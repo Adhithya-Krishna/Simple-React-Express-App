@@ -39,8 +39,18 @@ Should open Frontend and backend files in diffrent terminals.
    
 # Go to the backend directory
    cd ../backend/
-   npm install
-   node index.js
-      
-      - Install nodemon.js for better use case
+   - npm install
+  
+3.**Running the Application**
+
+# Inside the backend directory
+   Start the backend Express server: 
+   - node index.js
+
+   Install nodemon.js for better use
    The React app will start running on http://localhost:3000.
+
+# Inside the backend directory
+   Start the React frontend:
+   - npm run dev
+   The React app will start running on http://localhost:5173
